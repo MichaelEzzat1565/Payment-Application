@@ -1,0 +1,21 @@
+﻿  app.c
+  card.c
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Card\card.c(109,13): warning C4013: 'isdigit' undefined; assuming extern returning int
+  Main.c
+  server.c
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(17,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(19,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(20,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(22,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(23,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(24,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(67,76): warning C4047: 'function': 'const char *' differs in levels of indirection from 'uint8_t (*)[20]'
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(67,29): warning C4024: 'atof': different types for formal and actual parameter 1
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(68,56): warning C4047: 'function': 'const char *' differs in levels of indirection from 'const uint8_t (*)[20]'
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(68,25): warning C4024: 'atof': different types for formal and actual parameter 1
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(67,24): warning C4244: 'initializing': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Server\server.c(68,20): warning C4244: 'initializing': conversion from 'double' to 'uint32_t', possible loss of data
+  terminal.c
+C:\Users\EL HODA\Desktop\eFWD c Programmin Project\Payment Application\Terminal\terminal.c(127,17): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+  Generating Code...
+  Payment Application.vcxproj -> C:\Users\EL HODA\Desktop\eFWD c Programmin Project\x64\Debug\Payment Application.exe
